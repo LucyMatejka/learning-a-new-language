@@ -13,6 +13,8 @@ Concrete actions taken to learn JavaScript:
 
 -Furthered learning of basic syntax by completing some stages of Codacademy basic JavaScript course.
 
+-Learnt some JavaScript "grammar" at the encapsulation with prototype and constructor workshop on Weds 3.12. Read Ch8 Classes and Ch5 Objects in JavaScript Pocket Reference by David Flanagan to try to improve understanding. Worked on creating "Greeter" object in JavaScript during pairing challenge in afternoon.
+
 
 
 
