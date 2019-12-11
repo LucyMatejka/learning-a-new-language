@@ -25,7 +25,8 @@ Concrete actions taken to learn JavaScript:
 
 Links to code written in JS:
 
-https://github.com/LucyMatejka/thermostat.git
+https://github.com/LucyMatejka/thermostat.git,
+
 https://github.com/LucyMatejka/fizzbuzz-javascript.git
 
 
