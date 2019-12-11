@@ -1,0 +1,22 @@
+Abstract steps taken to learn Javascript which could be repeated to learn another language:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
