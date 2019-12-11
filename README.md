@@ -1,4 +1,4 @@
-Abstract steps taken to learn Javascript which could be repeated to learn another language:
+#Abstract steps taken to learn Javascript which could be repeated to learn another language:
 
 Learning by translation
 
@@ -7,7 +7,7 @@ Learning by translation
 -Rewriting some simple programs eg FizzBuzz using the above vocabulary, to see how they can be translated, and gain more idea about the structures of the new language.
 
 
-Concrete actions taken to learn JavaScript:
+#Concrete actions taken to learn JavaScript:
 
 -During pairing on first afternoon, doing the above for FizzBuzz. Marianne and I looked at our FizzBuzz programs written in Ruby. Researched the syntax required in JavaScript, and rewrote FizzBuzz in the console in JavaScript.
 
